@@ -1,10 +1,10 @@
 # ICP 1
 This repo contains all materials covered for In Class Programming(ICP) 1:
 
-**Lesson Overview:** 
+**Lesson Overview:**   
 In this lesson, we will be using Google Drive to store a dataset, mount it to a Google Collab notebook, perform analyses on the data using python and Pandas library then save the notebook to a Github repository that we have created along with an accompanying wiki.
 
-**Programming Elements:** 
+**Programming Elements:**  
 Please complete the following:
 1. Download the [Dataset](https://umkc.box.com/s/y3niwfccpumnzbkyunwyznngb1xtd7a6) into your google drive
 2. Mount the google drive to Google Collab notebook and read the data using python Pandas library
